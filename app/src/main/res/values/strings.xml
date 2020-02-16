@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android track 3 Feedback</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="qualification">
+        <item>Select Qualification</item>
+        <item>Higher Secondary</item>
+        <item>Graduate</item>
+        <item>Post Graduate</item>
+        <item>PHD</item>
+    </string-array>
+    <string name="title_activity_thanksactivity">Thanksactivity</string>
+</resources>
